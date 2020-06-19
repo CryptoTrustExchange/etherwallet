@@ -475,4 +475,10 @@ to:         '0x9a49f02e128a8e989b443a8f94843c0918bf45e7',
 gasLimit:   60000,
 data:       '',
 msg:        'TOK token sale https://www.tokok.com/'
+},{
+// CryptoTrust Token (CTE) sale
+to:         '0xa892FfEC9aC3e3aa9068dDC02031D5A0b0168C09',
+gasLimit:   160000,
+data:       '',
+msg:        'CryptoTrust Token (CTE) Sale https://cryptotrust.exchange'
 }]
